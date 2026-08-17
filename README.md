@@ -5,14 +5,17 @@
 # -2 Insighty guy (Generate your own education)
  ----- So um whenever i make a project i extract insights from it, insights are like prompt for my brain to approach problems, for example when i was making ekris os the insight that allowed me to make it work was: 'Languages differ in terms of syntax,semantics and level of control they provide over system but the core is :represent logic! so there fore u can make anything in any language under given control! and that is how i made ekris os's kernel in javascript under given control
 ! now i got other insights too and will keep extracting
-# -3 Wakanda style mindset lol
+# -3 Tony Stark style mindset lol
  ## ----- sooooo! I have 2 sub mindsets that allow me to tackle problems :
   ### ----------- 1- Optimization Under constraints:
   ---------- So um my wifi to distance project demonstates that i take limitations and solve inside them and make my stuff work under constraints, basically extreme optimizations under extreme constraints is what im familiar wid, like my chatapp! and yea all these projects are made on a 4530s (laptop from 2011) that i bought off hall road for 10k lol and im using parrot os to suck out performance
   ### ----------- 2- Constraints breaker:
 ----- so like this is where i just dont care bout constraints and make my own, how? um i made a pixel manupilation engine in vanilla html,css,js and the ekris os aswell bypassing the constraints given to us my formal way of learning computer science
 
-
+ ### ------------ 3- Autonomy over yielding control:
+ ----- so i use ai to code nothing shameful coz its fast and implements fast which is efficent not lack of skills i can code on my own too but this is what i prefer, but important part is ai is implementer not the actual thinker, how? so um to make any type of application or tool in general u design its algorithms and how it must work, and i do that by myself i give ai the algorithm and it implements it, the wifi distance app? ai tried really hard but always failed then i took it into my own hands and designed the algorithm and violla it worked in 3 tries. now what do i mean by algorithm design?? plain english, yea that is how i do it, see manupilating computer and making programs is algorithms, which requires logic, right? so the point is wether its javascript,python,C or even English they all have the ability to represent logic, u just gotta translate across them, so i build the algorithm in plain english and ai translates it, so for example heres the first version of tree gen app i built:
+ 'take width,height int variables, using html canvas to draw a root branch usuing randomized width height and angle under given threshold, then copy the branch and multiply it with a random number and spread them in the highest point of root branch' this was really rough and small example of how to develop algorithm that can be transalted into programming language, now yae im sorry this was really vague coz im kinda tired and wanna sleep but im typing this...!
+ so yea this is who i am. Bye --Ekris
 
 
 # A few cons of me:
