@@ -1,5 +1,5 @@
 # Who am i?
-Hello Im Ekris-Daniel. Im 16 year old. self taught. um i've never had a teacher so i developed this style of reasoning and approaching problems, my identity as an engineer isnt tied to specific tool like python,javascript or react coz if they collapse i will too, instead i have a few working mechanisms:
+## Hello Im Ekris-Daniel. Im 16 year old. self taught. um i've never had a teacher so i developed this style of reasoning and approaching problems, my identity as an engineer isnt tied to specific tool like python,javascript or react coz if they collapse i will too, instead i have a few working mechanisms:
 # -1 Logical Reconstruction of facts:
  ----- I dont memorize facts, i build structure to reconstruct facts on the go, so for example 2 years ago when i was a young babi i was working on string contactination(whatever the word is) to solve reverse the string problem, i did it aswell 2 years ago but right now i dont even know how to use string contactination but whenever ill have to reverse string i know ill just have to go to google and google string contactination in python. So i forget facts but not the requirements.txt or manifest.json to reconstruct the facts
 # -2 Insighty guy (Generate your own education)
